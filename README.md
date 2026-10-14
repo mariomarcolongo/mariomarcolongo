@@ -12,9 +12,9 @@ Italy · Italian/EU citizen · Open to international remote work and relocation.
 
 | Work | My contribution | Evidence |
 | --- | --- | --- |
-| **Entropy for Life** | Paid scientific literature research, fact-checking, scripts and visualizations; built and operate the WordPress website, including hosting, DNS/SSL and publishing workflows. Responsibilities vary by assignment. | [Published work and attribution](https://entropyforlife.it/mario-marcolongo-entropy-for-life/) |
+| **Entropy for Life** | Paid scientific literature research, fact-checking, scripts and visualizations; built and operate the WordPress website, including hosting, DNS/SSL and publishing workflows. Responsibilities vary by assignment. | [Published work and attribution](https://entropyforlife.it/mario-marcolongo-en/) |
 | **Information-integrity investigations** | Trace claims, recover archived sources, reconcile conflicting records and examine connections across online communities. Methods include domain and website checks, image verification and cross-platform research; observed connections are distinguished from attribution hypotheses. | [Public cases, methods and evidence limits](https://mariomarcolongo.com/investigations) |
-| **AI Safety Formalization Atlas** | Merged upstream contributions covering source quality, citation provenance, validation portability and repository instructions. Listed coauthor of an unpublished September 2026 paper draft. | [Accepted contributions](https://github.com/mbrcic/ai-safety-formalization-atlas/pulls?q=is%3Apr+is%3Amerged+author%3Amariomarcolongo) · [Contribution details](https://mariomarcolongo.com/work/atlas) |
+| **AI Safety Formalization Atlas** | Merged upstream contributions covering source quality, citation provenance, validation portability and repository instructions. Coauthor of the public Atlas preprint (Zenodo, 1 October 2026). | [Accepted contributions](https://github.com/mbrcic/ai-safety-formalization-atlas/pulls?q=is%3Apr+is%3Amerged+author%3Amariomarcolongo) · [Contribution details](https://mariomarcolongo.com/work/atlas) · [Preprint DOI](https://doi.org/10.5281/zenodo.23088952) |
 | **Notandia** | Product requirements, functional testing, troubleshooting, release management and maintenance of research-integrity tools. Browser releases for Chrome, Edge and Firefox; a separately maintained Zotero plugin. | [Browser extension](https://github.com/notandia/browser-extension) · [Zotero plugin](https://github.com/notandia/zotero-plugin) |
 | **Yourself to Science** | Founded and maintain a research-participation directory; inclusion criteria, source curation, structured metadata, provenance and update workflows. | [Directory](https://yourselftoscience.org/) · [Source](https://github.com/yourselftoscience/yourselftoscience.org) |
 | **Wikimedia** | Citation review, source reconciliation, structured metadata and sourced diagrams since 2018. | [Visualizations and source records](https://mariomarcolongo.com/work/wikimedia) |
@@ -23,7 +23,7 @@ My scientific-literature research and error detection are acknowledged in *Itali
 
 ## AI evaluation and red teaming
 
-Independent adversarial testing through Gray Swan across chat, image, agent and indirect challenges. The **30 September 2026** Proving Ground capture reports **#79, top 5%, 127 platform-recorded breaks**. [Dated results, original captures and scoring scope](https://mariomarcolongo.com/evidence/gray-swan-2026-09-30).
+Independent adversarial testing through Gray Swan across chat, image, agent and indirect challenges. The **13 October 2026** profile capture records **40 Arena global unique breaks, 1,430 points and 415 submissions**. Separately, Proving Ground records **#81, top 5%, 127 breaks**. Intermediate Lucky Break training completed in October. [Dated results, original captures, certificates and scoring scope](https://mariomarcolongo.com/ai-evaluation).
 
 Member of [Syntony Research’s Trusted Red Team Network](https://www.linkedin.com/company/syntony-research-lab/), a project-based network of independent specialists. Scope, responsibilities and compensation are agreed for individual engagements.
 
