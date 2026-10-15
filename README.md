@@ -37,7 +37,7 @@ Member of [Syntony Research’s Trusted Red Team Network](https://www.linkedin.c
 
 ## Education and technical scope
 
-Metropolia Open UAS Information Technology path studies, English and online, **non-degree**. Python Programming: **3 awarded ECTS, Pass, assessed 15 September 2026**. Continuing Python, SQL and quantitative foundations.
+Metropolia Open UAS Information Technology path studies, taught online in English. The degree-credit pathway leads toward a Bachelor of Engineering in Information Technology. Python Programming: **3 awarded ECTS, Pass, assessed 15 September 2026**. Continuing Python, SQL and quantitative foundations.
 
 I use AI tools extensively for software implementation. My contributions include requirements, code and output inspection, functional testing, troubleshooting and maintenance. The linked case studies describe my contribution and validation.
 
