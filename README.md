@@ -8,6 +8,8 @@ Italy · Italian/EU citizen · Open to international remote work and relocation.
 
 [Portfolio](https://mariomarcolongo.com) · [Research & operations CV](https://mariomarcolongo.com/cv) · [Technical operations CV](https://mariomarcolongo.com/cv-technical) · [AI evaluation CV](https://mariomarcolongo.com/cv-ai) · [LinkedIn](https://www.linkedin.com/in/mario-marcolongo) · [ORCID](https://orcid.org/0000-0003-2846-7115) · [Email](mailto:me@mariomarcolongo.com)
 
+Research profiles: [Google Scholar](https://scholar.google.com/citations?user=EnNykUIAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Mario_Marcolongo)
+
 ## Work you can inspect
 
 | Work | My contribution | Evidence |
@@ -15,7 +17,7 @@ Italy · Italian/EU citizen · Open to international remote work and relocation.
 | **Entropy for Life** | Paid scientific literature research, fact-checking, scripts and visualizations; built and operate the WordPress website, including hosting, DNS/SSL and publishing workflows. Responsibilities vary by assignment. | [Published work and attribution](https://entropyforlife.it/mario-marcolongo-en/) |
 | **Information-integrity investigations** | Trace claims, recover archived sources, reconcile conflicting records and examine connections across online communities. Methods include domain and website checks, image verification and cross-platform research; observed connections are distinguished from attribution hypotheses. | [Public cases, methods and evidence limits](https://mariomarcolongo.com/investigations) |
 | **AI Safety Formalization Atlas** | Merged upstream contributions covering source quality, citation provenance, validation portability and repository instructions. Coauthor of the public Atlas preprint (Zenodo, 1 October 2026). | [Accepted contributions](https://github.com/mbrcic/ai-safety-formalization-atlas/pulls?q=is%3Apr+is%3Amerged+author%3Amariomarcolongo) · [Contribution details](https://mariomarcolongo.com/work/atlas) · [Preprint DOI](https://doi.org/10.5281/zenodo.23088952) |
-| **Notandia** | Product requirements, functional testing, troubleshooting, release management and maintenance of research-integrity tools. Browser releases for Chrome, Edge and Firefox; a separately maintained Zotero plugin. | [Browser extension](https://github.com/notandia/browser-extension) · [Zotero plugin](https://github.com/notandia/zotero-plugin) |
+| **Notandia** | Product requirements, functional testing, troubleshooting, release management and maintenance of research-integrity tools. Browser releases for Chrome, Edge and Firefox; a separately maintained Zotero plugin. | [Browser extension](https://github.com/notandia/browser-extension) · [Zotero plugin](https://github.com/notandia/zotero-plugin) · [Zotero v0.2.0 archive](https://doi.org/10.5281/zenodo.23390663) |
 | **Yourself to Science** | Founded and maintain a research-participation directory; inclusion criteria, source curation, structured metadata, provenance and update workflows. | [Directory](https://yourselftoscience.org/) · [Source](https://github.com/yourselftoscience/yourselftoscience.org) |
 | **Wikimedia** | Citation review, source reconciliation, structured metadata and sourced diagrams since 2018. | [Visualizations and source records](https://mariomarcolongo.com/work/wikimedia) |
 
@@ -29,7 +31,7 @@ Member of [Syntony Research’s Trusted Red Team Network](https://www.linkedin.c
 
 ## Other tools and explorations
 
-- [Hypermandala](https://hypermandala.mariomarcolongo.com/) · [Source](https://github.com/mariomarcolongo/hypermandala): interactive geometry and visualization; higher-dimensional additions are experimental.
+- [Hypermandala](https://hypermandala.mariomarcolongo.com/) · [Source](https://github.com/mariomarcolongo/hypermandala) · [v0.1.0 archive](https://doi.org/10.5281/zenodo.23391082): interactive geometry and visualization; higher-dimensional additions are experimental.
 - [English Wikipedia Link Converter](https://t.me/ToEnWikipediaBot) · [Source](https://github.com/mariomarcolongo/english-wikipedia-link-converter-telegram-bot): specified workflows, deployment requirements and release checks for a Telegram/AWS tool.
 - [Scientific visualizations](https://mariomarcolongo.com/work/scientific-visualizations): Wikimedia diagrams, Tableau maps and Flourish data stories.
 
