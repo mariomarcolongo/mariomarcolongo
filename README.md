@@ -10,7 +10,15 @@
 
 I configure practical workflows, investigate sources, and test software and AI behavior. My work combines **paid client delivery**, **accepted open-source contributions**, and **independent research tools**.
 
-[Portfolio & case studies](https://mariomarcolongo.com) · [Technical CV](https://mariomarcolongo.com/cv-technical) · [LinkedIn](https://www.linkedin.com/in/mario-marcolongo) · [Contact](mailto:me@mariomarcolongo.com)
+[Portfolio & case studies](https://mariomarcolongo.com) · [Technical CV](https://mariomarcolongo.com/cv-technical) · [LinkedIn](https://www.linkedin.com/in/mario-marcolongo) · [Contact](mailto:me@mariomarcolongo.com) · [Still version](https://github.com/mariomarcolongo/mariomarcolongo/blob/main/README-static.md)
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/section-work-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/section-work-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-work-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-work-light.gif">
+  <img src="assets/section-work-light.png" alt="" width="1200">
+</picture>
 
 ## Work in use
 
@@ -28,25 +36,82 @@ I researched official platform guidance, wrote a cross-platform instruction-desi
 
 Other merged work includes a [source metadata and rights-evidence audit](https://github.com/mbrcic/ai-safety-formalization-atlas/pull/69), [citation locators and publication provenance](https://github.com/mbrcic/ai-safety-formalization-atlas/pull/70), and [macOS/Linux validation fixes](https://github.com/mbrcic/ai-safety-formalization-atlas/pull/52). I am a [coauthor of the Atlas preprint](https://doi.org/10.5281/zenodo.23088952).
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/section-projects-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/section-projects-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-projects-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-projects-light.gif">
+  <img src="assets/section-projects-light.png" alt="" width="1200">
+</picture>
+
 ## Explore the work
 
-<a href="https://mariomarcolongo.com/work">
+<a href="https://github.com/notandia/browser-extension">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/project-gallery-mobile.png">
-  <img src="assets/project-gallery.png" alt="Project previews: Notandia publisher-context settings, Yourself to Science research directory, my biomedical diagram and Hypermandala geometry explorer" width="1200">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/card-notandia-dark-mobile.png">
+  <source media="(max-width: 600px)" srcset="assets/card-notandia-light-mobile.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-notandia-dark.png">
+  <img src="assets/card-notandia-light.png" alt="Notandia publisher-context settings preview" width="1200">
 </picture>
 </a>
 
-- **[Notandia](https://github.com/notandia/browser-extension):** research-integrity tools I created and maintain, used by my team at Entropy for Life. Publisher context and formal article notices remain distinct signals. [Case study](https://mariomarcolongo.com/notandia) · [Zotero companion](https://github.com/notandia/zotero-plugin)
-- **[Yourself to Science](https://yourselftoscience.org/):** founder and maintainer of a research-participation directory; inclusion criteria, curation, source provenance and update workflows. [Source](https://github.com/yourselftoscience/yourselftoscience.org)
-- **[Scientific visualization](https://mariomarcolongo.com/work/scientific-visualizations):** diagrams, Tableau maps and Flourish stories. My biomedical diagram was reused in a Palgrave Macmillan / Springer Nature book chapter. [Original, reuse & attribution](https://mariomarcolongo.com/work/wikimedia#diagram-reuse)
-- **[Hypermandala](https://hypermandala.mariomarcolongo.com/):** an interactive geometry experiment connecting 2D plans, 3D forms and 4D projections. [Source](https://github.com/mariomarcolongo/hypermandala)
+**[Notandia](https://github.com/notandia/browser-extension):** research-integrity tools I created and maintain, used by my team at Entropy for Life. Publisher context and formal article notices remain distinct signals. [Case study](https://mariomarcolongo.com/notandia) · [Zotero companion](https://github.com/notandia/zotero-plugin)
+
+<a href="https://yourselftoscience.org/">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/card-yourself-to-science-dark-mobile.png">
+  <source media="(max-width: 600px)" srcset="assets/card-yourself-to-science-light-mobile.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-yourself-to-science-dark.png">
+  <img src="assets/card-yourself-to-science-light.png" alt="Yourself to Science research-participation directory preview" width="1200">
+</picture>
+</a>
+
+**[Yourself to Science](https://yourselftoscience.org/):** founder and maintainer of a research-participation directory; inclusion criteria, curation, source provenance and update workflows. [Source](https://github.com/yourselftoscience/yourselftoscience.org)
+
+<a href="https://mariomarcolongo.com/work/scientific-visualizations">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/card-scientific-visualization-dark-mobile.png">
+  <source media="(max-width: 600px)" srcset="assets/card-scientific-visualization-light-mobile.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-scientific-visualization-dark.png">
+  <img src="assets/card-scientific-visualization-light.png" alt="My biomedical diagram reused in a book chapter" width="1200">
+</picture>
+</a>
+
+**[Scientific visualization](https://mariomarcolongo.com/work/scientific-visualizations):** diagrams, Tableau maps and Flourish stories. My biomedical diagram was reused in a Palgrave Macmillan / Springer Nature book chapter. [Original, reuse & attribution](https://mariomarcolongo.com/work/wikimedia#diagram-reuse)
+
+<a href="https://hypermandala.mariomarcolongo.com/">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/card-hypermandala-dark-mobile.png">
+  <source media="(max-width: 600px)" srcset="assets/card-hypermandala-light-mobile.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-hypermandala-dark.png">
+  <img src="assets/card-hypermandala-light.png" alt="Hypermandala geometry explorer preview" width="1200">
+</picture>
+</a>
+
+**[Hypermandala](https://hypermandala.mariomarcolongo.com/):** an interactive geometry experiment connecting 2D plans, 3D forms and 4D projections. [Source](https://github.com/mariomarcolongo/hypermandala)
+
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/section-testing-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/section-testing-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-testing-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-testing-light.gif">
+  <img src="assets/section-testing-light.png" alt="" width="1200">
+</picture>
 
 ## Testing & investigations
 
 - **Software and localization QA:** terminology, browser checks, keyboard navigation and release verification across Notandia, the [QCAE interface](https://mariomarcolongo.com/work/qcae) and the [Wikipedia link converter](https://github.com/mariomarcolongo/english-wikipedia-link-converter-telegram-bot).
 - **AI evaluation:** independent adversarial testing through Gray Swan, examining instruction-following failures and response patterns. [Methods & dated results](https://mariomarcolongo.com/ai-evaluation)
 - **Source investigations:** archived-source recovery, bibliographic checks, scientific and technical translation, and bilingual Wikidata terminology. [Public cases](https://mariomarcolongo.com/investigations) · [Wikimedia work](https://mariomarcolongo.com/work/wikimedia)
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/section-contact-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/section-contact-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-contact-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-contact-light.gif">
+  <img src="assets/section-contact-light.png" alt="" width="1200">
+</picture>
 
 ## Work with me
 
